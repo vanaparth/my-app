@@ -11,16 +11,11 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>3.8.1</version>
+      <version>4.11</version>
       <scope>test</scope>
     </dependency>
- <dependency>
-    <groupId>your-junit-listener-artifact-groupid</groupId>
-    <artifactId>your-junit-listener-artifact-artifactid</artifactId>
-    <version>your-junit-listener-artifact-version</version>
-    <scope>test</scope>
-  </dependency>
-</dependencies>
+ 
+</dependencie>
 <build>
 <plugins>
 
